@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.input-custom{
+  @apply bg-gray-100 focus:outline-none
+}
